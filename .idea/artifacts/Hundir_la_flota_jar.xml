@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Hundir la flota:jar">
+    <output-path>$USER_HOME$/Documents</output-path>
+    <root id="archive" name="Hundir la flota.jar">
+      <element id="module-output" name="Hundir la flota" />
+    </root>
+  </artifact>
+</component>
